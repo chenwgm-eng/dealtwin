@@ -173,3 +173,6 @@ DealTwin 采用 **open-core** 架构，通过 `@edition` 注册表实现社区�
 DealTwin 基于以下销售方法论设计：
 - **SVS (Solution Value Selling)**：提供商机推进的流程框架
 - **Challenger Sales**：提供客户互动的技能框架
+## 联系方式
+
+邮箱：chenwgm@126.com
