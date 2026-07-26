@@ -62,3 +62,6 @@ data/
 # Claude
 CLAUDE.md
 .claude/
+
+# 文档目录（内部资料）
+docs/
